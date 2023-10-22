@@ -1,14 +1,15 @@
 <!-- Imagem TOP -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F89963&height=120&section=header"/>
  
 <!-- Welcome -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Almeida;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+Impacta;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F89963&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Almeida;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+Impacta;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ##
-<!-- Status / Comitis-->
+<!-- Status -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanAlmeida03&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Juan Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAlmeida03&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanAlmeida-Dev&show_icons=true&count_private=true&hide_border=false&title_color=F89963&icon_color=F89963&text_color=c9d1d9&bg_color=0d1117" alt="Juan Almeida github stats" />
+<!-- Comitis-->
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAlmeida-Dev&layout=compact&hide_border=false&title_color=F89963&text_color=F89963&bg_color=0d1117" />
 </div>
  
  ##
@@ -40,4 +41,4 @@
 </div>
 
 <!-- Imagem BOTTOM -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F89963&height=120&section=footer"/>
